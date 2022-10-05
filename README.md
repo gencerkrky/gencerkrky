@@ -11,7 +11,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gencerkarakaya/" target="blank" rel=”noopener”><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw1s0nDSRB0k8apAujJFo1-i&ust=1664999932095000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDSlJ2ux_oCFQAAAAAdAAAAABAJ" alt="gencerkrky" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/gencerkarakaya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gencerkarakaya" height="30" width="40" /></a>
 <a href="https://instagram.com/gencerkrky" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="gencerkrky" height="30" width="30" /></a>
 
 
