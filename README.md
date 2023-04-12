@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
   
-- 🌱 I’m currently working with ** ASP MVC .Net Core, JavaScript **
+- 🌱 I’m currently working with ** ASP MVC .Net Core, JavaScript, Shopify Development **
 
 - 📫 How to reach me **gencerkrky@gmail.com**
  </p>
