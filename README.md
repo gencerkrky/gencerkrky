@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://cdn.shopify.com/s/files/1/0557/7198/8160/files/200w.gif?v=1703526041" width="500" height="320" />
 
   
-- 🌱 I’m currently working with ** ASP MVC .Net Core, JavaScript, Shopify Development **
+- 🌱 I’m currently working with ** Shopify Partner & Development **
 
 - 📫 How to reach me **gencerkrky@gmail.com**
  </p>
