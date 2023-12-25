@@ -19,14 +19,14 @@
 
 <h3 align="left">Shopify:</h3>
 <p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
- <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
-<a href="https://www.microsoft.com/tr-tr/sql-server" target="_blank" rel=”noopener”> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlite" width="30" height="30"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/5aafa6e4-2850-40d9-9854-d015d58ef352" alt="javascript" width="30" height="30"/> </a> 
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/5588a858-6542-4f55-9f42-fc3edb53ae50" alt="csharp" width="27" height="30"/> </a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/87b47063-ea92-4b7b-be2f-8d60e0af1341" alt="dotnetcore" width="30" height="30"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/53363844-4759-4920-9f64-46f7b745db97" alt="git" width="30" height="30"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/516817a6-889a-4088-a6b7-a2a3d0e79e65" alt="bootstrap" width="30" height="30"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/6c4358a7-846a-4c09-9ab7-982c3e782a30" alt="css3" width="28" height="28"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/1d727c56-b8bf-4f22-953e-b89f493799cd" alt="html5" width="30" height="30"/> </a> 
+<a href="https://www.microsoft.com/tr-tr/sql-server" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/1b98f349-12d9-46fd-aad7-994e0a5b6ade" alt="sqlite" width="30" height="30"/> </a>
 
 <br>
   
