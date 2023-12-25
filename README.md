@@ -19,14 +19,14 @@
 
 <h3 align="left">Shopify:</h3>
 <p align="left"> 
-<a href="[https://www.credly.com/users/gencer-karakaya/badges](https://www.credly.com/users/gencer-karakaya/badges)" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/5aafa6e4-2850-40d9-9854-d015d58ef352" alt="Shopify-certified" width="100px" height="100px"/> </a> 
-<a href="[https://docs.microsoft.com/en-us/dotnet/csharp/](https://www.credly.com/users/gencer-karakaya/badges)" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/5588a858-6542-4f55-9f42-fc3edb53ae50" alt="Shopify-certified" width="100px" height="100px"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/87b47063-ea92-4b7b-be2f-8d60e0af1341" alt="Shopify-certified" width="100px" height="100px"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/53363844-4759-4920-9f64-46f7b745db97" alt="Shopify-certified" width="100px" height="100px"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/516817a6-889a-4088-a6b7-a2a3d0e79e65" alt="Shopify-certified" width="100px" height="100px"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/6c4358a7-846a-4c09-9ab7-982c3e782a30" alt="Shopify-certified" width="100px" height="100px"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/1d727c56-b8bf-4f22-953e-b89f493799cd" alt="Shopify-certified" width="100px" height="100px"/> </a> 
-<a href="https://www.microsoft.com/tr-tr/sql-server" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/1b98f349-12d9-46fd-aad7-994e0a5b6ade" alt="Shopify-certified" width="100px" height="100px"/> </a>
+<a href="https://www.credly.com/users/gencer-karakaya" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/5aafa6e4-2850-40d9-9854-d015d58ef352" alt="Shopify-certified" width="100px" height="100px"/> </a> 
+<a href="https://www.credly.com/users/gencer-karakaya" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/5588a858-6542-4f55-9f42-fc3edb53ae50" alt="Shopify-certified" width="100px" height="100px"/> </a>
+<a href="https://www.credly.com/users/gencer-karakaya" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/87b47063-ea92-4b7b-be2f-8d60e0af1341" alt="Shopify-certified" width="100px" height="100px"/> </a>
+<a href="https://www.credly.com/users/gencer-karakaya" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/53363844-4759-4920-9f64-46f7b745db97" alt="Shopify-certified" width="100px" height="100px"/> </a>
+<a href="https://www.credly.com/users/gencer-karakaya" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/516817a6-889a-4088-a6b7-a2a3d0e79e65" alt="Shopify-certified" width="100px" height="100px"/> </a>
+<a href="https://www.credly.com/users/gencer-karakaya" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/6c4358a7-846a-4c09-9ab7-982c3e782a30" alt="Shopify-certified" width="100px" height="100px"/> </a> 
+<a href="https://www.credly.com/users/gencer-karakaya" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/1d727c56-b8bf-4f22-953e-b89f493799cd" alt="Shopify-certified" width="100px" height="100px"/> </a> 
+<a href="https://www.credly.com/users/gencer-karakaya" target="_blank" rel=”noopener”> <img src="https://github.com/gencerkrky/certificate--sertifika/assets/104096533/1b98f349-12d9-46fd-aad7-994e0a5b6ade" alt="Shopify-certified" width="100px" height="100px"/> </a>
 
 <br>
   
