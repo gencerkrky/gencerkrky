@@ -1,6 +1,6 @@
 <h2 align="center">Hello there! 🚀 I'm Gencer Karakaya</h1>
 
-<img align="right" alt="GIF" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FfkNLhJ3g2aCkQs7VP6%2F200w.gif%3Fcid%3D82a1493bv83x0aem1t1yh4t6wgz742qzsqy8wn0iov20yrvz%26ep%3Dv1_gifs_related%26rid%3D200w.gif%26ct%3Ds&tbnid=R7YDwv0N3L1kxM&vet=12ahUKEwi4ju2PkKuDAxVii_0HHa9SA-QQMygEegQIARBS..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fstickers%2FShopify-transparent-U3VIlZC44jjVLE1awU&docid=1JcPewNnZbu8MM&w=200&h=200&q=shopify%20gif&ved=2ahUKEwi4ju2PkKuDAxVii_0HHa9SA-QQMygEegQIARBS" width="500" height="320" />
+<img align="right" alt="GIF" src="https://cdn.shopify.com/s/files/1/0557/7198/8160/files/200w.gif?v=1703526041" width="500" height="320" />
 
   
 - 🌱 I’m currently working with ** ASP MVC .Net Core, JavaScript, Shopify Development **
